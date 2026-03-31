@@ -1,0 +1,16 @@
+medication_id,name,strength,form,route
+47c80cc6-e46f-4f36-8124-fe9ad9cf5705,Metformin,500mg,Tablet,Oral
+a62968a9-8d11-4722-ba54-9966a025c935,Metformin,850mg,Tablet,Oral
+8bd682d6-0087-4add-a406-825afddcf665,Metformin,1000mg,Tablet,Oral
+6c05b162-1392-4aa8-8bd5-0847fea89dad,Januvia,100mg,Tablet,Oral
+6eeb9a65-545b-464b-9542-cb010024e9af,Jardiance,10mg,Tablet,Oral
+c0666b7c-0f9b-4b8a-9cb1-56d934fa6a10,Jardiance,25mg,Tablet,Oral
+69c103dd-7a93-4334-9217-dfcbe2c73672,Lantus,100 units/mL,Injection,Subcutaneous
+2e751f1c-574a-4571-9ede-be0df36b5b32,Humalog,100 units/mL,Injection,Subcutaneous
+881cd944-9742-4439-bd27-ae321c8fa046,Ozempic,0.5mg,Injection,Subcutaneous
+22b82559-0037-435e-9b4a-146fffa35842,Ozempic,1mg,Injection,Subcutaneous
+926774ce-099c-48b7-a244-03c4390b3b8e,Trulicity,1.5mg,Injection,Subcutaneous
+ce098952-b887-4d6f-8e58-d869f315bc45,Victoza,1.8mg,Injection,Subcutaneous
+56957fba-d918-49fe-9183-8982f96aedbf,Glipizide,5mg,Tablet,Oral
+1621af3c-1814-4e8a-ac62-729fd5bd48bc,Glipizide,10mg,Tablet,Oral
+fc66b4ff-eaca-4e70-acfb-399f7a0f680b,Actos,30mg,Tablet,Oral
