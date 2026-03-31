@@ -1,0 +1,11 @@
+allergy_id,allergen,severity,reaction
+eeece8ad-4a42-4a9d-a659-5429bc47af2d,Penicillin,High,Anaphylaxis
+f102e5f5-32f3-4586-b1c5-96b2c2390cbd,Sulfa drugs,Moderate,"Rash, hives"
+bcf4d7bd-eac0-49a4-96e2-ad8311f36407,Aspirin,Moderate,Stomach upset
+da64c64a-1b51-4075-bca5-72e8b5d83891,Ibuprofen,Low,Skin rash
+55790877-118b-4cc5-b737-b27b8d1f2819,Latex,Moderate,Contact dermatitis
+885dc596-e646-4c14-afe1-562210e91bb0,Shellfish,High,Anaphylaxis
+a35ef569-a051-425b-8227-39ca2d87f47a,Peanuts,High,Anaphylaxis
+759fa64f-8e10-41b9-b868-4c98dab96b6f,Tree nuts,Moderate,"Hives, swelling"
+a71867e6-f60a-4479-a2dd-767209b02e1b,Eggs,Low,Digestive issues
+892cd793-328a-4206-abb6-89579cbc2531,Codeine,Moderate,"Nausea, dizziness"
